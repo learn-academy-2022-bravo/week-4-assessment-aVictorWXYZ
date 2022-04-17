@@ -46,7 +46,7 @@ const removeOneShuffle = (coconut) => {
     coconut.shift
     newCoconut = coconut
     newCoconutShuffle = []
-    newCoconut.map((lime,index) => {
+    newCoconut.map((lime) => {
         random1 =   Math.floor(Math.random())  
         random2 =   Math.floor(Math.random())  
         if (random1 >= random2){
