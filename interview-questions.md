@@ -9,7 +9,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: props is the calling of a state from another component or app.js
 
-  Researched answer:
+  Researched answer: Props are arguemnts passed to components
 
 
 
@@ -17,7 +17,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: DOM referes to all the working components on a website. A DOM event would mean when one of those components has a change and the DOM updates only that specific components witout messing with all other components.
 
-  Researched answer:
+  Researched answer: Allow different events to complete functions without disturbing all other unrelated functions
 
 
 
@@ -25,7 +25,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:OOP creates objects as its primary way of organizing methods. Functional programming has the functions where they are needed but this is counter to DRY: do not repeat yourself
 
-  Researched answer:
+  Researched answer: In functional programming, data cannot be stored in objects and it can only be transformed by creating functions. In object-oriented programming, data is stored in objects.
 
 
 
@@ -33,7 +33,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: Ruby auto rounds numbers comming out from a problem unless a Fload is put in the problem. a Float is the decimal poin 
 
-  Researched answer:
+  Researched answer: An integer is a number without a decimal point while a float is a number that contains a decimal point
 
 
 
@@ -41,7 +41,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:Ruby will return the last line of code before the END
 
-  Researched answer:
+  Researched answer: Ruby returns the value of the last executed instruction in the method even when not told to do so as returning it is the default
 
 
 
